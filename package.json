@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^25.8.0"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^7.3.4",
+    "@supabase/supabase-js": "^2.105.4"
+  }
+}
